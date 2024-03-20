@@ -1,6 +1,21 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nalagami)](https://github.com/anuraghazra/github-readme-stats)
+## My skills
+### infra
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure)](https://skillicons.dev)
+### platform
+[![My Skills](https://skillicons.dev/icons?i=docker,terraform,discord,vscode,notion)](https://skillicons.dev)
+### language
+[![My Skills](https://skillicons.dev/icons?i=php,html,css,py,cpp)](https://skillicons.dev)
+
+
+[![Articles](https://badgen.org/img/qiita/nahiro_tus/articles?style=plastic)](https://qiita.com/nahiro_tus)
+[![Rating](https://badgen.org/img/atcoder/not_naka/rating/algorithm?style=plastic)](https://atcoder.jp/users/not_naka?contestType=algo)
+
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nalagami&layout=compact&show_icons=true&theme=cobalt" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=nalagami&theme=cobalt&show_icons=ture" />
+</p>
 
 
 <!--
