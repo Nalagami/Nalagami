@@ -1,34 +1,28 @@
-### Hi there 👋
+### Hi, I'm Nalagami 👋
 
-## My skills
-### infra
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure)](https://skillicons.dev)
-### platform
-[![My Skills](https://skillicons.dev/icons?i=docker,terraform,discord,vscode,notion)](https://skillicons.dev)
-### language
-[![My Skills](https://skillicons.dev/icons?i=php,html,css,py,cpp)](https://skillicons.dev)
+I'm an internal systems engineer building and operating tools for customer support teams in the telecom industry. I work across application development and cloud operations, from gathering requirements to automating deployments and improving monitoring.
 
+### 🛠️ Tech Stack
 
-[![Articles](https://badgen.org/img/qiita/nahiro_tus/articles?style=plastic)](https://qiita.com/nahiro_tus)
-[![Rating](https://badgen.org/img/atcoder/not_naka/rating/algorithm?style=plastic)](https://atcoder.jp/users/not_naka?contestType=algo)
+**Cloud & DevOps**  
+![AWS, Azure, Terraform, Docker, GitHub Actions](https://skillicons.dev/icons?i=aws,azure,terraform,docker,githubactions)  
+![AWS SAM](https://img.shields.io/badge/AWS%20SAM-232F3E?style=flat-square)
 
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nalagami&layout=compact&show_icons=true&theme=cobalt" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=nalagami&theme=cobalt&show_icons=ture" />
-</p>
+**Languages & Tools**  
+![Python, PHP, Bash, PowerShell, Linux, Git](https://skillicons.dev/icons?i=py,php,bash,powershell,linux,git)
 
+### 📊 Monitoring
 
-<!--
-**Nalagami/Nalagami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Prometheus, Grafana](https://skillicons.dev/icons?i=prometheus,grafana)  
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)
+![Amazon CloudWatch](https://img.shields.io/badge/Amazon%20CloudWatch-FF4F8B?style=flat-square)
+![New Relic](https://img.shields.io/badge/New%20Relic-008C7A?style=flat-square&logo=newrelic&logoColor=white)
 
-Here are some ideas to get you started:
+### 🤖 AI Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![ChatGPT](https://img.shields.io/badge/ChatGPT-202123?style=flat-square)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)
+
+### ✍️ Writing
+
+[![Qiita Articles](https://badgen.org/img/qiita/nahiro_tus/articles?style=plastic)](https://qiita.com/nahiro_tus)
