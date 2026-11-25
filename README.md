@@ -1,34 +1,26 @@
-### Hi there 👋
+# Nalagami
 
-## My skills
-### infra
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure)](https://skillicons.dev)
-### platform
-[![My Skills](https://skillicons.dev/icons?i=docker,terraform,discord,vscode,notion)](https://skillicons.dev)
-### language
-[![My Skills](https://skillicons.dev/icons?i=php,html,css,py,cpp)](https://skillicons.dev)
+通信業界の社内SEとして、カスタマーサポート部門向けの業務システムを開発・運用しています。現場の業務を理解し、要件定義から設計・実装、クラウド基盤の整備、リリース後の運用改善まで担当しています。
 
+## 主な経験
 
-[![Articles](https://badgen.org/img/qiita/nahiro_tus/articles?style=plastic)](https://qiita.com/nahiro_tus)
-[![Rating](https://badgen.org/img/atcoder/not_naka/rating/algorithm?style=plastic)](https://atcoder.jp/users/not_naka?contestType=algo)
+- **業務システム開発** — カスタマーサポートの業務フローに合わせたツール開発、画面表示や入力項目の改善、データベースの移行
+- **クラウド基盤・SRE** — AWS を中心としたインフラのコード化、CI/CD によるデプロイ自動化、監視設計と SLI / SLO の運用
+- **データ処理・分析** — AWS Glue による ETL と Amazon Athena によるデータ分析
+- **チーム開発・育成** — 小規模チームでのタスク管理、コードレビューとナレッジ共有の仕組みづくり、新卒・中途・異動メンバーの育成
 
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nalagami&layout=compact&show_icons=true&theme=cobalt" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=nalagami&theme=cobalt&show_icons=ture" />
-</p>
+## 主な技術
 
+| 領域 | 技術 |
+| --- | --- |
+| 開発・スクリプト | Python、PHP、Shell Script、PowerShell |
+| クラウド | AWS、Microsoft Azure |
+| IaC・CI/CD | Terraform、AWS SAM、GitHub Actions |
+| 監視 | Datadog、Prometheus、Grafana、Amazon CloudWatch |
 
-<!--
-**Nalagami/Nalagami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI を活用した開発ワークフローにも取り組んでいます。
 
-Here are some ideas to get you started:
+## リンク
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Qiita](https://qiita.com/nahiro_tus)
+- [AtCoder](https://atcoder.jp/users/not_naka?contestType=algo)
